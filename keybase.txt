@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/neiljmorrow
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://neilmorrow.com
+  * I am neiljmorrow (https://keybase.io/neiljmorrow) on keybase.
+  * I have a public key with fingerprint FF80 8D98 4F56 5A8C B9FD  C056 BAFD 46A2 BFB9 01FC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209e0c97c7d33f34b428b63132965f5e9f1b49e058675050c2c13d906061a0ed880a",
+      "fingerprint": "ff808d984f565a8cb9fdc056bafd46a2bfb901fc",
+      "host": "keybase.io",
+      "key_id": "bafd46a2bfb901fc",
+      "kid": "0101962d373f8eb8af9101e43796022744a5574f3c505b157a033cfecdd240c41f140a",
+      "uid": "f9025b4910a7d6b708c597d352b70919",
+      "username": "neiljmorrow"
+    },
+    "service": {
+      "hostname": "neilmorrow.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1551925071,
+  "expire_in": 157680000,
+  "prev": "43df8c086b7befd897d52a68003d4ba9c8cee67bfad207a268a3edc6643c8e80",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNsAnicbZJ5TBxVHMcXCjS7Ca2glSJoYNAqzULf3DNLMUSCENT0TllYWOZ4s0wX
+dpbd5SyXdKXSVERLRWuDAq0SqzGNxig9ZG2FRlsSi9IEtPZA6kqtFCPhKK1v0Cb+
+4fvnXZ/f932/v7yzkSsMppD+pWd7vvwi5E7It4HDFQZbU+Om3ZioyTWYZTfmhMsT
+LJWh12d3qjJmwQBOAB4CiWclViZJhaREiuBEhsRJgmdohYa8gosUQmiOYWlAA4mQ
+cFLmAQMYXABQ5jggYGZMUV0O6HF7VJcPySoKBziZ5yiFZmiBk0RekSVAM6KgyBQj
+EKIi8gBXJFRYonn1CmROFLwwVdXQGdrYl+39D3/fN8B5hpBJllQ4KHKCwqMTSJEs
+zwCCYClKoGmWUkgJeRZxmhUASUoKlGSZoIBE4QpOLfuuWJZTeEDQKCYOBFZmRBZw
+Es2jhtAEWvM4r4Ne6HEJZRDRLqiW7irTPB6tCqs3Y+iiUpWg3ls9zH+gf5hUSStD
+Am6P5tMkrRTdlfh8bote6qtx62wVFO3/qthF1SWjXqKCSujxqpoLs+CIlHyqLovT
+NM4TNGBxMwar3aoH2lWdoFmGA2joz8BKJEmRssJJgENhRKjIHEpDE4IOkTIlCrzE
+SRAyrKgIMgFYgWA4gYSyxDAUKXGQA5ieq9ylYRaCRj4FB9L0qg6X4KvwQKz+q4At
+zBBiMkSEh+qfzGAyPnD/60UNrF4ITRm83B5wbh47e6s4qW8mZ9hyK8vSv4CJS7vm
+z1QvxZyoU6MbT7N8cnqsD8abp25cvPBXwWJHS13KODs2vvGOtaYgOPXQ57aMuD1v
+x7cKSz15I7VWQ97YzOxPj4HEK4uz7RnvNUfu7Tr2yZDDRSgrs6rer+1YKXRdza8P
+dG1gNuS+2/fB87nOhJKMGDgcVx52vGFM2xYIbrY7y/OfOsF6b1thw6XXRw9MNprf
+mr13cmfE7zu6ZsqNUY+cu5EXeqTzcNEq0PHyVUGtiD4UFmhKHZmu21oWXnQ6fR2Y
+M0UM2J+odbq9ceDji25PkfGco/PnP2Pbso853FUL54/+8c76hcm1r6258llx56XI
+7qcbmqO+33Jhu3FjR2FNy919lq/L1kxMmpTeXhgJDiXGFPfZU58sL1EH/XT/tcu2
+T9nW7vDRTSkvPCNbp35Qg2kDpm3bs/0RL9X4E60HqeiWh4+TW347QwSnh8dXvdFe
+e9f84MQQdvAAn913O3R4/+h149pMqeLa3ONt2Eclp+aNBHH+17374k/2HDE3p33j
+LVh/vTA4mFw9a+9ua1hX57cnJ6XYEozPtUcYjnbdW/Gdd2f1K4vaNF4/Px+bA6YS
+h4pPNeVm+hNKC1/VeqbzW4N96f49N99MmxvOXF3rvGlNysrJf/QXPzkysWNr0Vg2
+tpT4Y3Jb74sf/g0R1r/W
+=+q7N
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/neiljmorrow
+
+==================================================================
+
